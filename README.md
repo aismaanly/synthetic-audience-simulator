@@ -1,4 +1,4 @@
-# 🤖 AI Comment Generator — LLM Fine-Tuning Pipeline
+# 🧠 Persona-Driven LLM Pipeline: Fine-Tuning LLaMA for Synthetic Audience Feedback
 
 This repository showcases my **end-to-end AI engineering workflow** in building a **domain-specific Large Language Model (LLM)** for generating **natural, contextual social media comments**.
 
