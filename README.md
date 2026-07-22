@@ -71,4 +71,4 @@ This project was developed as part of my **AI Engineer internship (MBKM)** and r
 To see how this fine-tuned model is **integrated into a real web application** using Flask & SQLite:
 
 👉 **Web Integration Repository**  
-https://github.com/aismaanly/flask-comment-generator
+https://github.com/aismaanly/flask-synthetic-audience
